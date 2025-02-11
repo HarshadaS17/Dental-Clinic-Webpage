@@ -1,1 +1,2 @@
 # Dental-Clinic-Webpage
+This is a modern, stylish, and fully responsive dentist clinic landing page built with Bootstrap. The design includes an elegant navigation bar, interactive image gallery, and a team section with hover effects. The testimonials slider enhances user engagement with smooth transitions. A user-friendly contact form is integrated with JavaScript to show a confirmation message upon submission. The website employs creative CSS effects to improve aesthetics and user experience. Let me know if you need further enhancements! 
